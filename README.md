@@ -1,1 +1,1 @@
-# Yup.Go
+# yup-go
